@@ -9,8 +9,6 @@ In this repository you'll find a full walkthrough with implementable codebase th
 3. Trains models
 4. Delivers model output to an end user
 
-This implementation will leverage ```PySpark``` for distributed computing (accelerates training time) and ```MLflow``` to manage the full lifecycle.
-
 Considerations for implementation, ```PySpark``` for distributed computing (accelerates training time) and ```MLflow``` to manage the full lifecycle, Sagemaker for cloud storage/computing, Docker/Kubernetes for containerized distribution.
 
 ## Setup
